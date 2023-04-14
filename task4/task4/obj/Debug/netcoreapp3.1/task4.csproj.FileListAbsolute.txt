@@ -1,0 +1,13 @@
+D:\Lab5\task4\task4\bin\Debug\netcoreapp3.1\task4.exe
+D:\Lab5\task4\task4\bin\Debug\netcoreapp3.1\task4.deps.json
+D:\Lab5\task4\task4\bin\Debug\netcoreapp3.1\task4.runtimeconfig.json
+D:\Lab5\task4\task4\bin\Debug\netcoreapp3.1\task4.runtimeconfig.dev.json
+D:\Lab5\task4\task4\bin\Debug\netcoreapp3.1\task4.dll
+D:\Lab5\task4\task4\bin\Debug\netcoreapp3.1\task4.pdb
+D:\Lab5\task4\task4\obj\Debug\netcoreapp3.1\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab5\task4\task4\obj\Debug\netcoreapp3.1\task4.AssemblyInfoInputs.cache
+D:\Lab5\task4\task4\obj\Debug\netcoreapp3.1\task4.AssemblyInfo.cs
+D:\Lab5\task4\task4\obj\Debug\netcoreapp3.1\task4.csproj.CoreCompileInputs.cache
+D:\Lab5\task4\task4\obj\Debug\netcoreapp3.1\task4.dll
+D:\Lab5\task4\task4\obj\Debug\netcoreapp3.1\task4.pdb
+D:\Lab5\task4\task4\obj\Debug\netcoreapp3.1\task4.genruntimeconfig.cache
